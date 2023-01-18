@@ -26,7 +26,7 @@ Repository: [TODO - Link To Repository](https://example.com)\
 Documentation: [TODO - Link To Documentation](https://example.com)\
 Charts: erp-adapter, sap-erp-adapter
 #### Robotics Planning Controller
-Tools for using ROSPLAN-based robotics planning applications based on the data of your k4r digital twins. The package offers a web application for controlling robots and an adapter to your ROSPLAN systems.\
+Tools for managing robotic agents. It includes an own [ROSPLAN](https://kcl-planning.github.io/ROSPlan/)-instance that connects to the digital twin to create its knowledge base for planning and provides WebSocket-adapter for robots to connect to. The package offers a web application for controlling robots and an adapter to execute ROSPlan-generated plans on robotic agents like [MARLIN](https://robotik.dfki-bremen.de/en/research/robot-systems/marlin/) either on real hardware or in simulation.\
 Repository: [TODO - Link To Repository](https://example.com)\
 Documentation: [TODO - Link To Documentation](https://example.com)\
 Charts: robotics-web, robotics-planning
